@@ -1,0 +1,24 @@
+RecipeName,Type,Ingredients,URL
+Spaghetti Bolognese,Regular,Spaghetti,Ground Beef,Tomato Sauce,Garlic,Onion,Oregano,Basil,https://example.com/spaghetti-bolognese
+Grilled Chicken Caesar Salad,Regular,Chicken,Lettuce,Parmesan Cheese,Caesar Dressing,Croutons,https://example.com/grilled-chicken-caesar-salad
+Keto Egg Muffins,Keto,Eggs,Cheese,Bacon,Spinach,Bell Peppers,https://example.com/keto-egg-muffins
+Gluten-Free Banana Bread,GlutenFree,Bananas,Gluten-Free Flour,Baking Soda,Eggs,Sugar,Butter,https://example.com/gluten-free-banana-bread
+Vegan Tofu Stir-Fry,Vegan,Tofu,Soy Sauce,Bell Peppers,Mushrooms,Carrots,Green Beans,https://example.com/vegan-tofu-stir-fry
+Lemon Garlic Shrimp,Regular,Shrimp,Garlic,Lemon,Butter,Parsley,https://example.com/lemon-garlic-shrimp
+Keto Cheeseburger,Keto,Ground Beef,Cheese,Lettuce,Bacon,https://example.com/keto-cheeseburger
+Gluten-Free Pancakes,GlutenFree,Gluten-Free Pancake Mix,Milk,Eggs,Butter,Maple Syrup,https://example.com/gluten-free-pancakes
+Vegan Quinoa Salad,Vegan,Quinoa,Cucumber,Tomatoes,Bell Peppers,Lemon,https://example.com/vegan-quinoa-salad
+Beef Tacos,Regular,Ground Beef,Taco Seasoning,Tortillas,Lettuce,Cheese,https://example.com/beef-tacos
+Keto Avocado and Bacon Salad,Keto,Avocado,Bacon,Lettuce,Tomato,Olive Oil,Lime Juice,https://example.com/keto-avocado-bacon-salad
+Gluten-Free Chicken and Rice,GlutenFree,Chicken,Rice,Bell Peppers,Onions,Soy Sauce,https://example.com/gluten-free-chicken-and-rice
+Vegan Lentil Soup,Vegan,Lentils,Carrots,Celery,Onions,Tomato Sauce,Garlic,https://example.com/vegan-lentil-soup
+Chicken Parmesan,Regular,Chicken,Parmesan Cheese,Tomato Sauce,Mozzarella Cheese,https://example.com/chicken-parmesan
+Keto Coconut Curry,Keto,Coconut Milk,Chicken,Curry Powder,Ginger,https://example.com/keto-coconut-curry
+Gluten-Free Pizza,GlutenFree,Gluten-Free Pizza Crust,Tomato Sauce,Mozzarella Cheese,Pepperoni,https://example.com/gluten-free-pizza
+Vegan Chickpea Curry,Vegan,Chickpeas,Coconut Milk,Curry Powder,Tomatoes,Spinach,https://example.com/vegan-chickpea-curry
+Classic Beef Stew,Regular,Beef,Potatoes,Carrots,Celery,Onion,Beef Broth,https://example.com/classic-beef-stew
+Keto Cauliflower Mash,Keto,Cauliflower,Butter,Cheese,Garlic,Heavy Cream,https://example.com/keto-cauliflower-mash
+Gluten-Free Veggie Burger,GlutenFree,Gluten-Free Burger Patties,Lettuce,Tomato,Pickles,https://example.com/gluten-free-veggie-burger
+Vegan Quinoa and Roasted Vegetables,Vegan,Quinoa,Bell Peppers,Carrots,Celery,Olive Oil,Salt,Pepper,Lemon,Cilantro,https://example.com/vegan-quinoa-roasted-vegetables
+Chicken and Rice Casserole,Regular,Chicken,Rice,Onion,Garlic,Olive Oil,Carrots,Peas,Cheese,Milk,Salt,Pepper,https://example.com/chicken-rice-casserole
+Vegan Fruit Salad,Vegan,Strawberries,Blueberries,Blackberries,Apple,Orange,Bananas,Peanut Butter,Lemon,Mint,https://example.com/vegan-fruit-salad
