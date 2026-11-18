@@ -6,6 +6,23 @@ RecipeResearcher is an academic desktop application prototype for managing a per
 
 Users can navigate between ingredient and recipe screens, add or remove inventory items, optionally record expiration dates, and select recipe categories such as **Regular**, **Vegan**, **Keto**, and **Gluten-Free**.
 
+
+## Application Preview
+
+These screenshots were captured from the original **SWENG 421 RecipeResearcher project presentation**, created by **Tanmay Gupta and Erik Gutschmidt**. They document the Windows Forms interface shown during the coursework; they do not establish that the current published source builds or runs without repair.
+
+### Adding Ingredients and Choosing Recipes
+
+| Add Ingredients | Recipe Preferences |
+| :---: | :---: |
+| ![Add Ingredients form with ingredient selection and optional expiration date](screenshots/recipe-researcher-add-ingredients.png) | ![Recipe preferences form with recipe count and vegan, keto, or gluten-free options](screenshots/recipe-researcher-recipe-preferences.png) |
+
+### Welcome Screen and Ingredient Inventory
+
+| Welcome Screen | Ingredient Inventory |
+| :---: | :---: |
+| ![RecipeResearcher welcome screen and start button](screenshots/recipe-researcher-welcome.png) | ![Ingredient inventory view listing an ingredient with an expiration date](screenshots/recipe-researcher-ingredient-inventory.png) |
+
 > **Development snapshot:** This repository contains the source code for a Windows Forms project, but some included source files are unfinished or inconsistent, and the checked-in project is **not confirmed to compile as-is**. See [Known Limitations](#known-limitations) before attempting to run it.
 
 ## Features Represented in the Code
@@ -152,7 +169,7 @@ The runtime files may not be created automatically in every startup path; their 
 3. Refine filtering to show recipes by available/missing ingredients and verify display behavior.
 4. Implement expiration-date filtering and add input validation.
 5. Add automated unit tests for recipe selection, file parsing, and filters.
-6. Capture screenshots of the Windows Forms interface once a runnable build is available.
+6. Restore and verify a runnable Windows Forms build; capture updated screenshots if the interface differs from the original coursework presentation.
 
 ## Project Purpose
 
